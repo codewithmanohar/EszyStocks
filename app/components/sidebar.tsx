@@ -45,7 +45,7 @@ export default function Sidebar({
             </nav>
             <div className="absolute bottom-0 left-0 right-0 p-6 border-t ">
                 <div className="flex items-center justify-between">
-                    <UserButton /> 
+                    <UserButton showUserInfo /> 
                 </div>
 
             </div>
